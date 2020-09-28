@@ -7,15 +7,15 @@ body {background-color:yellow;}
     }
     
 #laFoto{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 5px;
-    padding-left: 80px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
   }
 
   .buttons{
     padding-top: 20px;
-    padding-right: 30px;
-    padding-bottom: 10px;
+    padding-right: 80px;
+    padding-bottom: 40px;
     padding-left: 80px;
   }

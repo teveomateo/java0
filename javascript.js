@@ -1,22 +1,35 @@
 function display() {
-    alert("Hello World!");
+alert("Hello World!");
 }
 
-function hideParagraphs(){
-  
-          $("p").hide();
-    
-    }
+acostado.onclick = function(){
+document.getElementById("laFoto").src = 'lay.jpg';   
+};
 
-    function mostrar(){
-  
-        $("p").show();
-  
-  }
-  
+banar.onclick = function(){
+document.getElementById("laFoto").src = 'bathe.jpg';   
+};
 
-function cambiarTexto(){
+comer.onclick = function(){
+document.getElementById("laFoto").src = 'eat.jpg';   
+};
 
-    document.getElementById('texto').innerHTML = "Don Pepito";
+parque.onclick = function(){
+document.getElementById("laFoto").src = 'park.jpg';   
+};
 
-}
+pata.onclick = function(){
+document.getElementById("laFoto").src = 'paw.jpg';   
+};
+
+cachorro.onclick = function(){
+document.getElementById("laFoto").src = 'puppy.jpg';   
+};
+
+sentado.onclick = function(){
+document.getElementById("laFoto").src = 'sit.jpg';   
+};
+
+premio.onclick = function(){
+document.getElementById("laFoto").src = 'treat.jpg';   
+};

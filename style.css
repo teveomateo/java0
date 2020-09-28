@@ -1,6 +1,21 @@
 body {background-color:yellow;}
 
 .texto {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    font-size: 20px;
     }
     
+#laFoto{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+  }
+
+  .buttons{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+  }

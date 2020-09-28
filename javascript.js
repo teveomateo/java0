@@ -33,3 +33,7 @@ document.getElementById("laFoto").src = 'sit.jpg';
 premio.onclick = function(){
 document.getElementById("laFoto").src = 'treat.jpg';   
 };
+
+busca.onclick = function(){
+    document.getElementById("laFoto").src = 'fetch.jpg';   
+    };

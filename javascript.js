@@ -1,7 +1,3 @@
-function display() {
-alert("Hello World!");
-}
-
 acostado.onclick = function(){
 document.getElementById("laFoto").src = 'lay.jpg';   
 };
